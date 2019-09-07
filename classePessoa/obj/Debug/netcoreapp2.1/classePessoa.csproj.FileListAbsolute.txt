@@ -1,0 +1,11 @@
+C:\projectApex\Aula3\classePessoa\classePessoa\bin\Debug\netcoreapp2.1\classePessoa.deps.json
+C:\projectApex\Aula3\classePessoa\classePessoa\bin\Debug\netcoreapp2.1\classePessoa.runtimeconfig.json
+C:\projectApex\Aula3\classePessoa\classePessoa\bin\Debug\netcoreapp2.1\classePessoa.runtimeconfig.dev.json
+C:\projectApex\Aula3\classePessoa\classePessoa\bin\Debug\netcoreapp2.1\classePessoa.dll
+C:\projectApex\Aula3\classePessoa\classePessoa\bin\Debug\netcoreapp2.1\classePessoa.pdb
+C:\projectApex\Aula3\classePessoa\classePessoa\obj\Debug\netcoreapp2.1\classePessoa.csprojAssemblyReference.cache
+C:\projectApex\Aula3\classePessoa\classePessoa\obj\Debug\netcoreapp2.1\classePessoa.csproj.CoreCompileInputs.cache
+C:\projectApex\Aula3\classePessoa\classePessoa\obj\Debug\netcoreapp2.1\classePessoa.AssemblyInfoInputs.cache
+C:\projectApex\Aula3\classePessoa\classePessoa\obj\Debug\netcoreapp2.1\classePessoa.AssemblyInfo.cs
+C:\projectApex\Aula3\classePessoa\classePessoa\obj\Debug\netcoreapp2.1\classePessoa.dll
+C:\projectApex\Aula3\classePessoa\classePessoa\obj\Debug\netcoreapp2.1\classePessoa.pdb
